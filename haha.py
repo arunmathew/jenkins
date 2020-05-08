@@ -8,3 +8,4 @@ def greetings(who):
 
 print(greetings("Arun"))
 print("How are you doing today?")
+print("Good Bye")

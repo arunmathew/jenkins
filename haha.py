@@ -6,5 +6,5 @@ def greetings(who):
 	greeting = "Hello, {}".format(who)
 	return greeting
 
-greetings("Arun")
+print(greetings("Arun"))
 print("How are you doing today?")

@@ -9,3 +9,4 @@ def greetings(who):
 
 print(greetings("Arun"))
 print(greetings("World"))
+print(greetings("Thankam"))
